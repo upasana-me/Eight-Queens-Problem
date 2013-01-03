@@ -1,0 +1,10 @@
+Eight-Queens--Problem
+=====================
+
+Requirements : gcc
+
+Command for compiling:
+$ gcc EightQueens.c
+
+Command for executing:
+$ ./a.out
